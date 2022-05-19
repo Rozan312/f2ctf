@@ -3,8 +3,9 @@ Selamat datang!!
 Dibawah ini adalah kode buku. Untuk menemukan bukunya, pecahkankan hash ini:
 
 b6a233fb9b2d8772b636ab581169b58c98bd4b8df25e452911ef75561df649edc8852846e81837136840f3aa453e83d86323082d5b6002a16bc20c1560828348
+Clue website : md5hashing.net
 
-Clue : Gunakan bilangan bulat + untuk maju dalam teks sedangkan bilangan bulat - sebaliknya
+Clue : Gunakan bilangan angka(3) untuk maju dalam teks sedangkan bilangan angka (-1) mundur.
 
 I:1:6
 I:2:15
@@ -21,14 +22,13 @@ I:3:29
 I:19:8 
 I:22:25 
 /
-I:23:-1
-I:19:2
-I:2:9
-I:5:5
-I:66:4
-I:25:33
-I:19:1
-I:46:42
+I:23:-2
+I:19:2  
+I:2:9   
+I:5:5   
+I:66:31 
+I:19:1  
+I:58:18
 
 
 Good luck.
